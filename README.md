@@ -1,6 +1,6 @@
 # Diabetes Prediction ML Model
 
-This project is a Machine Learning model that predicts whether a person has diabetes or not based on medical attributes. The model is built using Python and popular ML libraries.
+This project is a Machine Learning model that predicts whether a person has diabetes or not based on medical attributes. The model is built using Python and popular ML libraries .
 
 ## Features
 
