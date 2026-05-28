@@ -52,6 +52,7 @@ The project uses a Machine Learning classification algorithm to predict diabetes
 5. Model Training
 6. Model Evaluation
 7. Prediction System
+8. 77% test accuracy score
 
 ## ▶️ How to Run
 
